@@ -6,6 +6,6 @@ fun main(){
 
     println(num)
     println(dog)
-    println(num1)
+    println(num_1)
     println(boo)
 }
