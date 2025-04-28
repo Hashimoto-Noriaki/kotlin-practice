@@ -1,3 +1,6 @@
 fun main() {
-    println("Hello, Kotlin!")
+    println("猿")
+    println("ポチ")
+    println("猫")
+    
 }
